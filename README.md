@@ -1,5 +1,7 @@
-# Explore-and-Summarize-Data
+# Explore and-Summarize Data with R
 Udacity DAND December 2017 - May 2018. Project 7: Explore and Summarize Data.
+
+Profitability Analysis of a Bicycle Company using R.
 
 # Project Overview 
 In this project, you will use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.
