@@ -44,24 +44,24 @@ This repository contains:
 3. The data set.
 
 ## Step Three - Explore your Data
-This is the fun part. Start exploring your data! Keep track of your thoughts as you go (in an RMD file). 
+This means keeping track of the thoughts as I go (in an RMD file). 
 
 ## Step Four - Document your Analysis
 The file should be formatted in markdown and should contain (in order):
 
 1. A stream-of-consciousness analysis and exploration of the data.
 
-a. Headings and text should organize your thoughts and reflect your analysis as you explored the data.
+  a. Headings and text the reflect the analysis as I explored the data.
 
-b. Plots in this analysis do not need to be polished with labels, units, and titles; these plots are exploratory (quick and dirty). They should, however, be of the appropriate type and effectively convey the information you glean from them.
+  b. Plots in this analysis do not need to be polished.
 
-c. You can iterate on a plot in the same R chunk, but you don’t need to show every plot iteration in your analysis.
+  c. I can iterate on a plot in the same R chunk.
 
 2. A section at the end called “Final Plots and Summary”
 
-You will select three plots from your analysis to polish and share in this section. The three plots should show different trends and should be polished with appropriate labels, units, and titles (see the Project Rubric for more information).
+I will select three plots from the analysis to polish and share in this section. The three plots should show different trends and should be polished with appropriate labels, units, and titles.
 
 3. A final section called “Reflection”
 
-This should contain a few sentences about your struggles, successes, and ideas for future exploration on the data set (see the Project Rubric for more information).
+This contains a few sentences about the struggles, successes, and ideas for future exploration on the data set.
 
