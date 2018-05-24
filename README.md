@@ -1,5 +1,5 @@
 # Explore and-Summarize Data with R
-Udacity Data Analyst December 2017 - May 2018. Project 7: Explore and Summarize Data using R.
+Udacity Data Analyst December 2017 - May 2018. Project 6: Explore and Summarize Data using R.
 
 Profitability Analysis of a Bicycle Company.
 
