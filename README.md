@@ -3,7 +3,7 @@ Udacity Data Analyst December 2017 - May 2018. Project 6: Explore and Summarize 
 
 Profitability Analysis of a Bicycle Company.
 
-[*Click here to see the preview*](http://htmlpreview.github.io/?https://github.com/latinacode/Explore-and-Summarize-Data/blob/master/Explore_and_Summarize_Data_.html)
+[*Click here to see the preview*](https://cdn.rawgit.com/latinacode/Explore-and-Summarize-Data/5cb7f781/Explore_and_Summarize_Data_.html)
 
 # Project Overview 
 In this project, I will use R and apply exploratory data analysis techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.
